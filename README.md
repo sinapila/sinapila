@@ -1,5 +1,11 @@
 ## Hi there 👋
 
+-👋 Hi, I’m Sina. Born to live and die with computers
+
+-👀 I’m interested in : Python, C++, Deep learning and Data processing
+
+-📫 i'm always available at <a href="https://t.me/Electornn" target="_blank">telegram</a
+
 <!--
 **sinapila/sinapila** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
